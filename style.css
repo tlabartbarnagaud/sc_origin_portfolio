@@ -109,14 +109,26 @@ a {
     }
     
     h4 {
-        color: #D8DEE9;
+        color: #3B4252;
         font-size: 20px;
     }
     
     img {
         width: 100%;
-        margin: 20px 0;
+        margin: 10px 0;
         border-radius: 10px;
+    }
+
+    li {
+        font-size: 20px;
+    }
+
+    ul {
+        list-style-position: inside;
+    }
+
+    span {
+        font-size: 20px;
     }
 
 }
