@@ -77,7 +77,6 @@ hr {
 }
 
 span {
-    font-weight: bold;
     color: var(--span-color);
 }
 
